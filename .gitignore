@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# VSCode 설정
+.vscode/
+
+# 로그 파일
+logs/
+*.log
